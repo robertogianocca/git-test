@@ -7,6 +7,7 @@ export default function Home() {
         <h1>SONO IL COMMIT N.1</h1>
         <h1>RIPARTIAMO DAL RESET</h1>
         <h1>SONO IL COMMIT N.2</h1>
+        <h1>SONO IL COMMIT N.3</h1>
       </div>
     </div>
   );
